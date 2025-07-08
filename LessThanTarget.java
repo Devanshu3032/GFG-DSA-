@@ -12,7 +12,7 @@ class LessThanTarget{
             }
             else{
                 count += j-i ; 
-                i++ ;
+                i++ 
             }
             
         }
