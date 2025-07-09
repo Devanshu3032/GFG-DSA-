@@ -17,7 +17,7 @@ public class TwoPairs {
                 }
             }
             for (int j = 0; j < arr1.length; j++) {
-                System.out.println();
+                System.out.println(arr1[j]);
             }
             
         }
